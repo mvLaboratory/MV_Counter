@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MV_Counter</string>
+    <string name="sMVCounter">MV counter</string>
+    <string name="action_settings">Settings</string>
+    <string name="sHint">add value</string>
+    <string name="sPlus">+</string>
+    <string name="sMinus">-</string>
+    <string name="sSave">Save</string>
+    <string name="Date">Date</string>
+    <string name="sNew">    New    </string>
+    <string name="title_activity_index_creation">indexCreation</string>
+    <string name="indexCreation">Index creation</string>
+    <string name="newIndexHint">enter index name</string>
+    <string name="sOK"> OK </string>
+    <string name="title_activity_index_creator">IndexCreator</string>
+    <string name="title_activity_index_catalog">IndexCatalog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="indexCatalogTitle">Index catalog</string>
+
+</resources>
